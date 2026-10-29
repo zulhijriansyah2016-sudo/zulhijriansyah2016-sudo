@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JERRY</h1>
+<h1 align="center">Hi 👋, I'm Pawn_promotion</h1>
 <h3 align="center">As a beginner in this field, I’ve just started university, majoring in Information Systems. This is simply a place for me to learn—hopefully, I’ll enjoy my time in this world.</h3>
 
 - 🔭 I’m currently working on **coursework**
